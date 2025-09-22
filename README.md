@@ -3,7 +3,7 @@
 1. Clone repository:
 ```bash
 git clone <URL_repository>
-cd <folder_name>
+cd addzip-tech
 ```
 
 2. Install dependencies:
