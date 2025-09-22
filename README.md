@@ -9,14 +9,14 @@ cd <folder_name>
 2. Install dependencies:
 ```bash
 npm install
-# или
+# or
 yarn
 ```
 
 3.Run dev server:
 ```bash
 npm run dev
-# или
+# or
 yarn dev
 ```
 
