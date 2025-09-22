@@ -1,24 +1,23 @@
 ## Getting Started
 
-First, after cloning repository, install npm packages:
+1. Clone repository:
 ```bash
-npm run dev
-# or
-yarn run dev
-# or
-pnpm run dev
-# or
-bun run dev
+git clone <URL_repository>
+cd <folder_name>
 ```
-Then, run the development server:
+
+2. Install dependencies:
+```bash
+npm install
+# или
+yarn
+```
+
+3.Run dev server:
 ```bash
 npm run dev
-# or
+# или
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
